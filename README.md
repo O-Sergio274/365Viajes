@@ -1,4 +1,4 @@
-# `365Viajes`, Tus viajes a la aventura global !! Explora el mundo todos los dias a precios increibles.
+# `365Viajes`, Tus viajes a la aventura global !! Explora el mundo todos los dias a precios increibles
 
 [Busqueda en google](https://www.google.com)
 
