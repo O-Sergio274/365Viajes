@@ -4,6 +4,6 @@
 
 A disfrutar !!!
 
-![Avion despegando](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmiPcV2FI8iOuFQEo0ZBn3g7FX6W7hlmVRQ&usqp=CAU)
+![Avion despegando](./images/avion.svg)
 
 > Mirate viajando a los distintos paises del mundo.
