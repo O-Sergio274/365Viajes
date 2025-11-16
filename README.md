@@ -4,6 +4,6 @@
 
 A disfrutar !!!
 
-![Avion despegando](./images/Avion_paseo.png)
+![Avion despegando](./images/Avion_paseo.webp)
 
 > Mirate viajando a los distintos paises del mundo.
