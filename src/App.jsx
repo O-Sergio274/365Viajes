@@ -1,10 +1,10 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState } from "react";
+import reactLogo from "./assets/react.svg";
+import viteLogo from "/vite.svg";
+import "./App.css";
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0);
 
   return (
     <>
@@ -23,13 +23,18 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           Personas {count}
         </button>
-          <p>
-          Listo tu lugar para {count} personas ya esta en reserva, solo tenes que confirmar.
+        <p>
+          Listo tu lugar para {count} personas ya esta en reserva, solo tenes
+          que confirmar.
         </p>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Sergio -{" "}
+          <code>
+            {" "}
+            " Vas a pasar unos excelentes dias con 365Viajes, no te vas a
+            arrepentir."
+          </code>
         </p>
-      
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
@@ -38,4 +43,4 @@ function App() {
   );
 }
 
-export default App
+export default App;
